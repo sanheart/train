@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "start": "./bin/start.js"
+    "kkb": "./bin/kkb.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
